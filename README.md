@@ -3,7 +3,7 @@
 ## This code is designed to plot sediment core XRF data in counts. There is the possibility to normalize the element counts to other elements (among other things).
 
 ### It was designed to be used on the folder structure in which the data was given to me:
-
+ 
 ├──Folder
   ├──Cruise-number_divenumber_corenumber_etc
     ├──Cruise-number_divenumber_corenumber_runnumber
